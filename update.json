@@ -34,7 +34,7 @@
     "coolingStop_updateContent": "“停止空调”发现新版本v2.6，修复了“无法将文本转换为词典”的错误（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRFl0Z1VCS1laUUhw",
     "horn_updateContent": "“找车”发现新版本v2.4，修复了“无法将文本转换为词典”的错误（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRER6cEJOWEJSUHNP",
     "lightFlash_updateContent": "“闪烁车灯”发现新版本v2.4，修复了“无法将文本转换为词典”的错误（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRG9tRG9UaWdKUkt5",
-    "joyCoin_updateContent": "“JOY币签到”发现新版本v3.0，修复了“提示更新到最新版本App”的错误，第一次运行需要填写验证码。更新后记得手动运行一次并同意所有权限（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRFBleFFLelduQWxS",
+    "joyCoin_updateContent": "“JOY币签到”发现新版本v3.0，修复了“提示更新到最新版本App”的错误，第一次运行需要填写验证码。为使token不过期，请确保每天运行一次签到指令，更新后记得手动运行一次并同意所有权限（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRFBleFFLelduQWxS",
     "watch_bmwState_version": "v2.6",
     "watch_lock_version": "v2.5",
     "watch_unlock_version": "v2.3",
